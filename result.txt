@@ -1,0 +1,13 @@
+Readable to Writable:
+
+Duplex Stream:
+Duplex Writing: Hello Duplex!
+
+Readable to Transform to Writable:
+Writing: Node.js 
+Writing: NODE.JS 
+Writing: Streams 
+Writing: STREAMS 
+Writing: are powerful!
+Writing: ARE POWERFUL!
+Duplex Reading: Duplex Reading!
